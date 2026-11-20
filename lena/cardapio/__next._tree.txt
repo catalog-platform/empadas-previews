@@ -4,4 +4,4 @@
 :HL["/empadas-previews/lena/_next/static/chunks/0xr870287nwgp.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"cardapio","h":64,"c":"$Q2"}]]
-0:{"b":"pxT7uA78MHAP5OlzCoUwZ","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"7ZR3LCb-xI-6HvQF_JHnR","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

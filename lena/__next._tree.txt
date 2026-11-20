@@ -3,4 +3,4 @@
 :HL["/empadas-previews/lena/_next/static/media/bitter_latin_wght_normal-s.p.2sp3zzpzzh33o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/empadas-previews/lena/_next/static/chunks/0xr870287nwgp.css","style"]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"pxT7uA78MHAP5OlzCoUwZ","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"7ZR3LCb-xI-6HvQF_JHnR","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
