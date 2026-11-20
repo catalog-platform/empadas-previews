@@ -1,5 +1,5 @@
-:HL["/empadas-previews/lena/_next/static/chunks/3u0-yo2g1p607.css","style"]
-:HL["/empadas-previews/lena/_next/static/chunks/0xr870287nwgp.css","style"]
+:HL["/empadas-previews/lena/_next/static/chunks/1p1jlhziqc3en.css","style"]
+:HL["/empadas-previews/lena/_next/static/chunks/3d_-_eqp0-51i.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"7ZR3LCb-xI-6HvQF_JHnR","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"h_ZPkxciswpzs0RwUH1sL","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
